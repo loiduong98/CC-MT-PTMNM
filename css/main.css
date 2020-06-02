@@ -111,6 +111,7 @@ ul li {
   color: #fff;
   opacity: 0.9;
 }
+
 /* END HEADER CSS */
 
 /* HOME CSS */
@@ -565,6 +566,7 @@ ul li {
 
 .portfolio .nav {
   justify-content: space-evenly;
+  padding: 0;
 }
 
 .portfolio .nav-pills .nav-link.active {
