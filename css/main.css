@@ -955,3 +955,6 @@ a:hover {
   font-weight: bold;
   border-radius: 20px;
 }
+html {
+  scroll-behavior: smooth;
+}
